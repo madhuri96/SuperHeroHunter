@@ -5,6 +5,7 @@ Create a superhero hunter app. Use ONLY vanilla javascript, no libraries or fram
 
 
 Features :-
+
 Home Page:
 Fetch and display a list of SuperHeros (Characters) on the home page using Marvel Api. Also create a search bar that will filter out the character based on search query. Suppose I type “bat” in the search box, it should show “batman”. 
 Each search result of the superhero should have a favorite button, clicking on which superhero should be added to “My favorite superheroes” (a list).
